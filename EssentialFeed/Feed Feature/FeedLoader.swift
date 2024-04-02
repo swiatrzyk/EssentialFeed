@@ -1,9 +1,9 @@
-    //
-    //  FeedLoader.swift
-    //  EssentialFeed
-    //
-    //  Created by Sebastian Wiatrzyk on 29/03/2024.
-    //
+//
+//  FeedLoader.swift
+//  EssentialFeed
+//
+//  Created by Sebastian Wiatrzyk on 29/03/2024.
+//
 
 import Foundation
 
