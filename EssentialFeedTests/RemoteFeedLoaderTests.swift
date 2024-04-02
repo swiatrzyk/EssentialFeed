@@ -22,13 +22,12 @@ class RemoteFeedLoader {
 }
 
 protocol HTTPClient {
-    func get(from url: URL?)
+    func get (from url: URL?)
 }
 
 final class RemoteFeedLoaderTests: XCTestCase {
 
     func test_init_doesNotRequestDataFromURL() {
-        let url = URL(string: "https://a-given-url.com")!
         let (_, client) = makeSUT()
 
         XCTAssertNil(client.requestedURL)
