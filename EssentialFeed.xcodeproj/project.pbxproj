@@ -91,9 +91,9 @@
 		E3E425FA2BB73CEC007E9224 /* EssentialFeed */ = {
 			isa = PBXGroup;
 			children = (
+				E3E426142BB73F68007E9224 /* Feed Feature */,
 				E3B4BA1D2BBC6408005DC31B /* Feed API */,
 				E3E425FB2BB73CEC007E9224 /* EssentialFeed.h */,
-				E3E426142BB73F68007E9224 /* Feed Feature */,
 			);
 			path = EssentialFeed;
 			sourceTree = "<group>";
